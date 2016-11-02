@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2016-11-02T22:25:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/jaxb/</loc>
+    <lastmod>2016-11-02T22:25:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/jaxb/td/</loc>
+    <lastmod>2016-11-02T22:27:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/jaxws/</loc>
+    <lastmod>2016-11-02T22:34:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/jaxws/td/</loc>
+    <lastmod>2016-11-02T22:34:26+01:00</lastmod>
+  </url>
+  
+</urlset>
